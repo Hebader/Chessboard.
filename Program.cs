@@ -8,11 +8,11 @@
             int number = int.Parse(Console.ReadLine()); //omvandlar användarens svar till ett heltal
 
 
-            for (int i = 0; i < number; i++)
+            for (int i = 0; i < number; i++) //En foor loop för varje rad
             {
 
 
-                for (int x = 0; number > x; x = x + 1)
+                for (int x = 0; number > x; x = x + 1) // en loop för antal pjäser
                 {
                     Console.Write("0");
                     x++;
