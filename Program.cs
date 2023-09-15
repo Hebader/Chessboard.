@@ -24,7 +24,7 @@
                     }
 
                 }
-                Console.WriteLine(""); // ny rad efter varje loop
+                Console.WriteLine(""); // Ny rad efter varje loop
             }
 
 
